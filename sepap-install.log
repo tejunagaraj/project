@@ -1,0 +1,14 @@
+Pre-install end: Tue Jul 12 17:16:59 IST 2016
+Post-install begin: Tue Jul 12 17:16:59 IST 2016
+BaseDir=/opt/Symantec
+Performing upgrade post-install actions
+check and remove old drivers
+Post-install end: Tue Jul 12 17:16:59 IST 2016
+*====================================================*
+Pre-uninstall begin: Tue Jul 12 17:17:00 IST 2016
+BaseDir=/opt/Symantec
+Upgrading, autoprotect not being disabled
+Pre-uninstall end: Tue Jul 12 17:17:00 IST 2016
+Post-uninstall begin: Tue Jul 12 17:17:01 IST 2016
+BaseDir=/opt/Symantec
+Post-uninstall end: Tue Jul 12 17:17:01 IST 2016
